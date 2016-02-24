@@ -3,8 +3,8 @@
     "saq": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "saq"
       },
@@ -253,12 +253,12 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Tesiran",
+                  "pm": "Teipa"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Tesiran",
+                  "pm": "Teipa"
                 },
                 "wide": {
                   "am": "Tesiran",
@@ -267,16 +267,16 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Tesiran",
+                  "pm": "Teipa"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Tesiran",
+                  "pm": "Teipa"
                 },
                 "wide": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Tesiran",
+                  "pm": "Teipa"
                 }
               }
             },

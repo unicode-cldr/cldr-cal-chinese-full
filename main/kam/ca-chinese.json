@@ -3,8 +3,8 @@
     "kam": {
       "identity": {
         "version": {
-          "_cldrVersion": "28",
-          "_number": "$Revision: 11914 $"
+          "_number": "$Revision: 12307 $",
+          "_cldrVersion": "29"
         },
         "language": "kam"
       },
@@ -253,12 +253,12 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Ĩyakwakya",
+                  "pm": "Ĩyawĩoo"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Ĩyakwakya",
+                  "pm": "Ĩyawĩoo"
                 },
                 "wide": {
                   "am": "Ĩyakwakya",
@@ -267,16 +267,16 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Ĩyakwakya",
+                  "pm": "Ĩyawĩoo"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Ĩyakwakya",
+                  "pm": "Ĩyawĩoo"
                 },
                 "wide": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "Ĩyakwakya",
+                  "pm": "Ĩyawĩoo"
                 }
               }
             },
