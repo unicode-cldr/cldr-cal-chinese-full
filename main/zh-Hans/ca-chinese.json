@@ -3,8 +3,8 @@
     "zh-Hans": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "zh",
         "script": "Hans"
@@ -25,7 +25,7 @@
                   "8": "八月",
                   "9": "九月",
                   "10": "十月",
-                  "11": "冬月",
+                  "11": "十一月",
                   "12": "腊月"
                 },
                 "narrow": {
@@ -39,7 +39,7 @@
                   "8": "八",
                   "9": "九",
                   "10": "十",
-                  "11": "冬",
+                  "11": "十一",
                   "12": "腊"
                 },
                 "wide": {
@@ -53,7 +53,7 @@
                   "8": "八月",
                   "9": "九月",
                   "10": "十月",
-                  "11": "冬月",
+                  "11": "十一月",
                   "12": "腊月"
                 }
               },
@@ -69,7 +69,7 @@
                   "8": "八月",
                   "9": "九月",
                   "10": "十月",
-                  "11": "冬月",
+                  "11": "十一月",
                   "12": "腊月"
                 },
                 "narrow": {
@@ -97,7 +97,7 @@
                   "8": "八月",
                   "9": "九月",
                   "10": "十月",
-                  "11": "冬月",
+                  "11": "十一月",
                   "12": "腊月"
                 }
               }
@@ -259,7 +259,7 @@
                   "pm": "下午",
                   "morning1": "清晨",
                   "morning2": "上午",
-                  "afternoon1": "下午",
+                  "afternoon1": "中午",
                   "afternoon2": "下午",
                   "evening1": "晚上",
                   "night1": "凌晨"
@@ -281,7 +281,7 @@
                   "pm": "下午",
                   "morning1": "清晨",
                   "morning2": "上午",
-                  "afternoon1": "下午",
+                  "afternoon1": "中午",
                   "afternoon2": "下午",
                   "evening1": "晚上",
                   "night1": "凌晨"
@@ -292,7 +292,7 @@
                   "midnight": "午夜",
                   "am": "上午",
                   "pm": "下午",
-                  "morning1": "早上",
+                  "morning1": "清晨",
                   "morning2": "上午",
                   "afternoon1": "中午",
                   "afternoon2": "下午",
@@ -1082,7 +1082,7 @@
                 "_value": "r年MMMd",
                 "_numbers": "d=hanidays"
               },
-              "short": "r-M-d"
+              "short": "r/M/d"
             },
             "timeFormats": {
               "full": "zzzz ah:mm:ss",
@@ -1157,7 +1157,7 @@
                   "h": "ah至h时"
                 },
                 "H": {
-                  "H": "HH–HH"
+                  "H": "HH至HH"
                 },
                 "hm": {
                   "a": "ah:mm至ah:mm",
@@ -1165,8 +1165,8 @@
                   "m": "ah:mm至h:mm"
                 },
                 "Hm": {
-                  "H": "HH:mm–HH:mm",
-                  "m": "HH:mm–HH:mm"
+                  "H": "HH:mm至HH:mm",
+                  "m": "HH:mm至HH:mm"
                 },
                 "hmv": {
                   "a": "vah:mm至ah:mm",
@@ -1174,8 +1174,8 @@
                   "m": "vah:mm至h:mm"
                 },
                 "Hmv": {
-                  "H": "HH:mm–HH:mm v",
-                  "m": "HH:mm–HH:mm v"
+                  "H": "HH:mm至HH:mm v",
+                  "m": "HH:mm至HH:mm v"
                 },
                 "hv": {
                   "a": "vah至ah时",

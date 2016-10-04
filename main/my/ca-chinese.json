@@ -3,8 +3,8 @@
     "my": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12384 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "my"
       },
@@ -253,34 +253,34 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "midnight": "ညသန်းခေါင်ယံ",
+                  "midnight": "သန်းခေါင်ယံ",
                   "am": "နံနက်",
                   "noon": "မွန်းတည့်",
                   "pm": "ညနေ",
-                  "morning1": "မနက်တွင်",
-                  "afternoon1": "နေ့လည်ခင်းတွင်",
-                  "evening1": "ညနေခင်းတွင်",
-                  "night1": "ညတွင်"
+                  "morning1": "နံနက်",
+                  "afternoon1": "နေ့လယ်",
+                  "evening1": "ညနေ",
+                  "night1": "ည"
                 },
                 "narrow": {
-                  "midnight": "ညသန်းခေါင်ယံ",
+                  "midnight": "သန်းခေါင်ယံ",
                   "am": "နံနက်",
                   "noon": "မွန်းတည့်",
                   "pm": "ညနေ",
-                  "morning1": "မနက်၁",
-                  "afternoon1": "နေ့လည်ခင်း၁",
-                  "evening1": "ညနေခင်း၁",
-                  "night1": "ည၁"
+                  "morning1": "နံနက်",
+                  "afternoon1": "နေ့လယ်",
+                  "evening1": "ညနေ",
+                  "night1": "ည"
                 },
                 "wide": {
-                  "midnight": "ညသန်းခေါင်ယံ",
+                  "midnight": "သန်းခေါင်ယံ",
                   "am": "နံနက်",
                   "noon": "မွန်းတည့်",
                   "pm": "ညနေ",
-                  "morning1": "မနက်တွင်",
-                  "afternoon1": "နေ့လည်ခင်းတွင်",
-                  "evening1": "ညနေခင်းတွင်",
-                  "night1": "ညတွင်"
+                  "morning1": "နံနက်",
+                  "afternoon1": "နေ့လယ်",
+                  "evening1": "ညနေ",
+                  "night1": "ည"
                 }
               },
               "stand-alone": {
@@ -290,7 +290,7 @@
                   "noon": "မွန်းတည့်",
                   "pm": "ညနေ",
                   "morning1": "နံနက်",
-                  "afternoon1": "နေ့လည်",
+                  "afternoon1": "နေ့လယ်",
                   "evening1": "ညနေ",
                   "night1": "ည"
                 },
@@ -300,7 +300,7 @@
                   "noon": "မွန်းတည့်",
                   "pm": "ညနေ",
                   "morning1": "နံနက်",
-                  "afternoon1": "နေ့လည်",
+                  "afternoon1": "နေ့လယ်",
                   "evening1": "ညနေ",
                   "night1": "ည"
                 },
@@ -310,7 +310,7 @@
                   "noon": "မွန်းတည့်",
                   "pm": "ညနေ",
                   "morning1": "နံနက်",
-                  "afternoon1": "နေ့လည်",
+                  "afternoon1": "နေ့လယ်",
                   "evening1": "ညနေ",
                   "night1": "ည"
                 }
@@ -1069,8 +1069,8 @@
               "short": "r-MM-dd"
             },
             "timeFormats": {
-              "full": "HH:mm:ss zzzz",
-              "long": "HH:mm:ss z",
+              "full": "zzzz HH:mm:ss",
+              "long": "z HH:mm:ss",
               "medium": "HH:mm:ss",
               "short": "HH:mm"
             },

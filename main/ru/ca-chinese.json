@@ -3,8 +3,8 @@
     "ru": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12920 $",
+          "_cldrVersion": "30"
         },
         "language": "ru"
       },
@@ -253,9 +253,9 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "midnight": "полночь",
+                  "midnight": "полн.",
                   "am": "ДП",
-                  "noon": "полдень",
+                  "noon": "полд.",
                   "pm": "ПП",
                   "morning1": "утра",
                   "afternoon1": "дня",
@@ -263,9 +263,9 @@
                   "night1": "ночи"
                 },
                 "narrow": {
-                  "midnight": "полночь",
+                  "midnight": "полн.",
                   "am": "ДП",
-                  "noon": "полдень",
+                  "noon": "полд.",
                   "pm": "ПП",
                   "morning1": "утра",
                   "afternoon1": "дня",

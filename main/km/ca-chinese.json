@@ -3,8 +3,8 @@
     "km": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "km"
       },
@@ -142,6 +142,15 @@
                   "sat": "សៅរ៍"
                 },
                 "narrow": {
+                  "sun": "អ",
+                  "mon": "ច",
+                  "tue": "អ",
+                  "wed": "ព",
+                  "thu": "ព",
+                  "fri": "ស",
+                  "sat": "ស"
+                },
+                "short": {
                   "sun": "អា",
                   "mon": "ច",
                   "tue": "អ",
@@ -149,15 +158,6 @@
                   "thu": "ព្រ",
                   "fri": "សុ",
                   "sat": "ស"
-                },
-                "short": {
-                  "sun": "អាទិត្យ",
-                  "mon": "ច័ន្ទ",
-                  "tue": "អង្គារ",
-                  "wed": "ពុធ",
-                  "thu": "ព្រហស្បតិ៍",
-                  "fri": "សុក្រ",
-                  "sat": "សៅរ៍"
                 },
                 "wide": {
                   "sun": "អាទិត្យ",
@@ -180,6 +180,15 @@
                   "sat": "សៅរ៍"
                 },
                 "narrow": {
+                  "sun": "អ",
+                  "mon": "ច",
+                  "tue": "អ",
+                  "wed": "ព",
+                  "thu": "ព",
+                  "fri": "ស",
+                  "sat": "ស"
+                },
+                "short": {
                   "sun": "អា",
                   "mon": "ច",
                   "tue": "អ",
@@ -187,15 +196,6 @@
                   "thu": "ព្រ",
                   "fri": "សុ",
                   "sat": "ស"
-                },
-                "short": {
-                  "sun": "អាទិត្យ",
-                  "mon": "ច័ន្ទ",
-                  "tue": "អង្គារ",
-                  "wed": "ពុធ",
-                  "thu": "ព្រហស្បតិ៍",
-                  "fri": "សុក្រ",
-                  "sat": "សៅរ៍"
                 },
                 "wide": {
                   "sun": "អាទិត្យ",
@@ -253,30 +253,30 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "midnight": "អាធ្រាត្រ",
-                  "am": "ព្រឹក",
-                  "noon": "ថ្ងៃ",
-                  "pm": "ល្ងាច",
+                  "midnight": "អធ្រាត្រ",
+                  "am": "AM",
+                  "noon": "ថ្ងៃត្រង់",
+                  "pm": "PM",
                   "morning1": "ព្រឹក",
                   "afternoon1": "រសៀល",
                   "evening1": "ល្ងាច",
                   "night1": "យប់"
                 },
                 "narrow": {
-                  "midnight": "កណ្តាលអាធ្រាត្រ",
-                  "am": "ព្រឹក",
+                  "midnight": "អធ្រាត្រ",
+                  "am": "a",
                   "noon": "ថ្ងៃត្រង់",
-                  "pm": "ល្ងាច",
+                  "pm": "p",
                   "morning1": "ព្រឹក",
                   "afternoon1": "រសៀល",
                   "evening1": "ល្ងាច",
                   "night1": "យប់"
                 },
                 "wide": {
-                  "midnight": "អាធ្រាត្រ",
-                  "am": "ព្រឹក",
-                  "noon": "ថ្ងៃ",
-                  "pm": "ល្ងាច",
+                  "midnight": "អធ្រាត្រ",
+                  "am": "AM",
+                  "noon": "ថ្ងៃត្រង់",
+                  "pm": "PM",
                   "morning1": "ព្រឹក",
                   "afternoon1": "រសៀល",
                   "evening1": "ល្ងាច",
@@ -285,30 +285,30 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "midnight": "កណ្តាលអាធ្រាត្រ",
-                  "am": "ព្រឹក",
+                  "midnight": "អធ្រាត្រ",
+                  "am": "AM",
                   "noon": "ថ្ងៃ​ត្រង់",
-                  "pm": "ល្ងាច",
+                  "pm": "PM",
                   "morning1": "ព្រឹក",
                   "afternoon1": "រសៀល",
                   "evening1": "ល្ងាច",
                   "night1": "យប់"
                 },
                 "narrow": {
-                  "midnight": "កណ្តាលអាធ្រាត្រ",
-                  "am": "ព្រឹក",
+                  "midnight": "អធ្រាត្រ",
+                  "am": "AM",
                   "noon": "ថ្ងៃ​ត្រង់",
-                  "pm": "ល្ងាច",
+                  "pm": "PM",
                   "morning1": "ព្រឹក",
                   "afternoon1": "រសៀល",
                   "evening1": "ល្ងាច",
                   "night1": "យប់"
                 },
                 "wide": {
-                  "midnight": "កណ្តាលអាធ្រាត្រ",
-                  "am": "ព្រឹក",
+                  "midnight": "អធ្រាត្រ",
+                  "am": "AM",
                   "noon": "ថ្ងៃ​ត្រង់",
-                  "pm": "ល្ងាច",
+                  "pm": "PM",
                   "morning1": "ព្រឹក",
                   "afternoon1": "រសៀល",
                   "evening1": "ល្ងាច",

@@ -3,8 +3,8 @@
     "hr-BA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12799 $",
+          "_cldrVersion": "30"
         },
         "language": "hr",
         "territory": "BA"
@@ -181,13 +181,13 @@
                   "sat": "sub"
                 },
                 "narrow": {
-                  "sun": "n",
-                  "mon": "p",
-                  "tue": "u",
-                  "wed": "s",
-                  "thu": "č",
-                  "fri": "p",
-                  "sat": "s"
+                  "sun": "N",
+                  "mon": "P",
+                  "tue": "U",
+                  "wed": "S",
+                  "thu": "Č",
+                  "fri": "P",
+                  "sat": "S"
                 },
                 "short": {
                   "sun": "ned",
@@ -212,10 +212,10 @@
             "quarters": {
               "format": {
                 "abbreviated": {
-                  "1": "1kv",
-                  "2": "2kv",
-                  "3": "3kv",
-                  "4": "4kv"
+                  "1": "1. kv.",
+                  "2": "2. kv.",
+                  "3": "3. kv.",
+                  "4": "4. kv."
                 },
                 "narrow": {
                   "1": "1.",
@@ -232,10 +232,10 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "1": "1kv",
-                  "2": "2kv",
-                  "3": "3kv",
-                  "4": "4kv"
+                  "1": "1. kv.",
+                  "2": "2. kv.",
+                  "3": "3. kv.",
+                  "4": "4. kv."
                 },
                 "narrow": {
                   "1": "1.",
@@ -279,7 +279,7 @@
                   "noon": "podne",
                   "pm": "PM",
                   "morning1": "ujutro",
-                  "afternoon1": "poslije podne",
+                  "afternoon1": "popodne",
                   "evening1": "navečer",
                   "night1": "noću"
                 }
@@ -310,10 +310,10 @@
                   "am": "AM",
                   "noon": "podne",
                   "pm": "PM",
-                  "morning1": "jutro",
+                  "morning1": "ujutro",
                   "afternoon1": "popodne",
-                  "evening1": "večer",
-                  "night1": "noć"
+                  "evening1": "navečer",
+                  "night1": "noću"
                 }
               }
             },
@@ -1064,13 +1064,13 @@
               }
             },
             "dateFormats": {
-              "full": "E, d.M.y.",
-              "long": "d.M.y.",
-              "medium": "d.M.y.",
-              "short": "d.M.y."
+              "full": "E, d. M. y.",
+              "long": "d. M. y.",
+              "medium": "d. M. y.",
+              "short": "d. M. y."
             },
             "timeFormats": {
-              "full": "HH:mm:ss zzzz",
+              "full": "HH:mm:ss (zzzz)",
               "long": "HH:mm:ss z",
               "medium": "HH:mm:ss",
               "short": "HH:mm"

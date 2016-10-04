@@ -3,8 +3,8 @@
     "lo": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "lo"
       },
@@ -133,22 +133,22 @@
             "days": {
               "format": {
                 "abbreviated": {
-                  "sun": "ວັນອາທິດ",
-                  "mon": "ວັນຈັນ",
-                  "tue": "ວັນອັງຄານ",
-                  "wed": "ວັນພຸດ",
-                  "thu": "ວັນພະຫັດ",
-                  "fri": "ວັນສຸກ",
-                  "sat": "ວັນເສົາ"
+                  "sun": "ອາທິດ",
+                  "mon": "ຈັນ",
+                  "tue": "ອັງຄານ",
+                  "wed": "ພຸດ",
+                  "thu": "ພະຫັດ",
+                  "fri": "ສຸກ",
+                  "sat": "ເສົາ"
                 },
                 "narrow": {
-                  "sun": "1",
-                  "mon": "2",
-                  "tue": "3",
-                  "wed": "4",
-                  "thu": "5",
-                  "fri": "6",
-                  "sat": "7"
+                  "sun": "ອາ",
+                  "mon": "ຈ",
+                  "tue": "ອ",
+                  "wed": "ພ",
+                  "thu": "ພຫ",
+                  "fri": "ສຸ",
+                  "sat": "ສ"
                 },
                 "short": {
                   "sun": "ອາ.",
@@ -180,7 +180,7 @@
                   "sat": "ເສົາ"
                 },
                 "narrow": {
-                  "sun": "ອ",
+                  "sun": "ອາ",
                   "mon": "ຈ",
                   "tue": "ອ",
                   "wed": "ພ",
@@ -255,7 +255,7 @@
                 "abbreviated": {
                   "midnight": "ທ່ຽງຄືນ",
                   "am": "ກ່ອນທ່ຽງ",
-                  "noon": "ທ່ຽງ",
+                  "noon": "ຕອນທ່ຽງ",
                   "pm": "ຫຼັງທ່ຽງ",
                   "morning1": "ຕອນເຊົ້າ",
                   "afternoon1": "ຕອນບ່າຍ",
@@ -263,8 +263,8 @@
                   "night1": "ກາງຄືນ"
                 },
                 "narrow": {
-                  "midnight": "ທ່ຽງຄືນ",
-                  "am": "ຕອນເຊົ້າ",
+                  "midnight": "ທຄ",
+                  "am": "ກທ",
                   "noon": "ທ",
                   "pm": "ຫຼທ",
                   "morning1": "ຕອນເຊົ້າ",
@@ -275,7 +275,7 @@
                 "wide": {
                   "midnight": "ທ່ຽງຄືນ",
                   "am": "ກ່ອນທ່ຽງ",
-                  "noon": "ທ່ຽງ",
+                  "noon": "ຕອນທ່ຽງ",
                   "pm": "ຫຼັງທ່ຽງ",
                   "morning1": "ຕອນເຊົ້າ",
                   "afternoon1": "ຕອນບ່າຍ",
@@ -287,7 +287,7 @@
                 "abbreviated": {
                   "midnight": "ທ່ຽງ​ຄືນ",
                   "am": "ກ່ອນທ່ຽງ",
-                  "noon": "ຕອນທ່ຽງ",
+                  "noon": "ທ່ຽງ",
                   "pm": "ຫຼັງທ່ຽງ",
                   "morning1": "​ເຊົ້າ",
                   "afternoon1": "ສວຍ",
@@ -295,17 +295,17 @@
                   "night1": "​ກາງ​ຄືນ"
                 },
                 "narrow": {
-                  "midnight": "ທ່ຽງ​ຄືນ",
+                  "midnight": "ທຄ",
                   "am": "ກທ",
                   "noon": "ຕອນທ່ຽງ",
                   "pm": "ຫຼທ",
-                  "morning1": "​ເຊົ້າ",
-                  "afternoon1": "ສວຍ",
-                  "evening1": "ແລງ",
-                  "night1": "​ກາງ​ຄືນ"
+                  "morning1": "ຊ",
+                  "afternoon1": "ສ",
+                  "evening1": "ລ",
+                  "night1": "ກຄ"
                 },
                 "wide": {
-                  "midnight": "ທ່ຽງ​ຄືນ",
+                  "midnight": "ທ່ຽງຄືນ",
                   "am": "ກ່ອນທ່ຽງ",
                   "noon": "ຕອນທ່ຽງ",
                   "pm": "ຫຼັງທ່ຽງ",

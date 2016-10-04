@@ -3,8 +3,8 @@
     "uz": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12944 $",
+          "_cldrVersion": "30"
         },
         "language": "uz"
       },
@@ -133,13 +133,13 @@
             "days": {
               "format": {
                 "abbreviated": {
-                  "sun": "Ya",
-                  "mon": "Du",
-                  "tue": "Se",
-                  "wed": "Ch",
-                  "thu": "Pa",
-                  "fri": "Ju",
-                  "sat": "Sh"
+                  "sun": "Yak",
+                  "mon": "Dush",
+                  "tue": "Sesh",
+                  "wed": "Chor",
+                  "thu": "Pay",
+                  "fri": "Jum",
+                  "sat": "Shan"
                 },
                 "narrow": {
                   "sun": "Y",
@@ -171,13 +171,13 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "sun": "Ya",
-                  "mon": "Du",
-                  "tue": "Se",
-                  "wed": "Ch",
-                  "thu": "Pa",
-                  "fri": "Ju",
-                  "sat": "Sh"
+                  "sun": "Yak",
+                  "mon": "Dush",
+                  "tue": "Sesh",
+                  "wed": "Chor",
+                  "thu": "Pay",
+                  "fri": "Jum",
+                  "sat": "Shan"
                 },
                 "narrow": {
                   "sun": "Y",
@@ -253,7 +253,7 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "midnight": "yarim kechasi",
+                  "midnight": "yarim tun",
                   "am": "TO",
                   "noon": "tush payti",
                   "pm": "TK",
@@ -263,7 +263,7 @@
                   "night1": "kechasi"
                 },
                 "narrow": {
-                  "midnight": "yarim kechasi",
+                  "midnight": "yarim tun",
                   "am": "TO",
                   "noon": "tush payti",
                   "pm": "TK",
@@ -273,7 +273,7 @@
                   "night1": "kechasi"
                 },
                 "wide": {
-                  "midnight": "yarim kechasi",
+                  "midnight": "yarim tun",
                   "am": "TO",
                   "noon": "tush payti",
                   "pm": "TK",
@@ -285,7 +285,7 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "midnight": "yarim kechasi",
+                  "midnight": "yarim tun",
                   "am": "TO",
                   "noon": "tush payti",
                   "pm": "TK",
@@ -295,7 +295,7 @@
                   "night1": "kechasi"
                 },
                 "narrow": {
-                  "midnight": "yarim kechasi",
+                  "midnight": "yarim tun",
                   "am": "TO",
                   "noon": "tush payti",
                   "pm": "TK",
@@ -305,7 +305,7 @@
                   "night1": "kechasi"
                 },
                 "wide": {
-                  "midnight": "yarim kechasi",
+                  "midnight": "yarim tun",
                   "am": "TO",
                   "noon": "tush payti",
                   "pm": "TK",

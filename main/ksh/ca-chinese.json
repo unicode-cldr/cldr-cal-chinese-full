@@ -3,8 +3,8 @@
     "ksh": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12128 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12876 $",
+          "_cldrVersion": "30"
         },
         "language": "ksh"
       },
@@ -161,7 +161,7 @@
                 },
                 "wide": {
                   "sun": "Sunndaach",
-                  "mon": "Moondaach",
+                  "mon": "Mohndaach",
                   "tue": "Dinnsdaach",
                   "wed": "Metwoch",
                   "thu": "Dunnersdaach",
@@ -199,7 +199,7 @@
                 },
                 "wide": {
                   "sun": "Sunndaach",
-                  "mon": "Moondaach",
+                  "mon": "Mohndaach",
                   "tue": "Dinnsdaach",
                   "wed": "Metwoch",
                   "thu": "Dunnersdaach",
@@ -223,10 +223,10 @@
                   "4": "4"
                 },
                 "wide": {
-                  "1": "1. Quattaal",
-                  "2": "2. Quattaal",
-                  "3": "3. Quattaal",
-                  "4": "4. Quattaal"
+                  "1": "1. Quattahl",
+                  "2": "2. Quattahl",
+                  "3": "3. Quattahl",
+                  "4": "4. Quattahl"
                 }
               },
               "stand-alone": {
@@ -237,28 +237,28 @@
                   "4": "4.Q."
                 },
                 "narrow": {
-                  "1": "1",
-                  "2": "2",
-                  "3": "3",
-                  "4": "4"
+                  "1": "1Q",
+                  "2": "2Q",
+                  "3": "3Q",
+                  "4": "4Q"
                 },
                 "wide": {
-                  "1": "1. Quattaal",
-                  "2": "2. Quattaal",
-                  "3": "3. Quattaal",
-                  "4": "4. Quattaal"
+                  "1": "1. Quattahl",
+                  "2": "2. Quattahl",
+                  "3": "3. Quattahl",
+                  "4": "4. Quattahl"
                 }
               }
             },
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "am": "v.m.",
-                  "pm": "n.m."
+                  "am": "v.M.",
+                  "pm": "n.M."
                 },
                 "narrow": {
-                  "am": "v.m.",
-                  "pm": "n.m."
+                  "am": "v.M.",
+                  "pm": "n.M."
                 },
                 "wide": {
                   "am": "Uhr vörmiddaachs",
@@ -267,16 +267,16 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "am": "v.m.",
-                  "pm": "n.m."
+                  "am": "v.M.",
+                  "pm": "n.M."
                 },
                 "narrow": {
-                  "am": "v.m.",
-                  "pm": "n.m."
+                  "am": "v.M.",
+                  "pm": "n.M."
                 },
                 "wide": {
-                  "am": "Vormittag",
-                  "pm": "Nachmittag"
+                  "am": "Vörmeddaach",
+                  "pm": "Nommendaach"
                 }
               }
             },

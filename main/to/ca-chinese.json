@@ -3,8 +3,8 @@
     "to": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12379 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12798 $",
+          "_cldrVersion": "30"
         },
         "language": "to"
       },
@@ -261,8 +261,8 @@
                   "pm": "PM"
                 },
                 "wide": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "hengihengi",
+                  "pm": "efiafi"
                 }
               },
               "stand-alone": {
@@ -275,8 +275,8 @@
                   "pm": "PM"
                 },
                 "wide": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "HH",
+                  "pm": "EA"
                 }
               }
             },

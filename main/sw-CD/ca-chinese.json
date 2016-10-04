@@ -3,8 +3,8 @@
     "sw-CD": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12197 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12799 $",
+          "_cldrVersion": "30"
         },
         "language": "sw",
         "territory": "CD"
@@ -134,13 +134,13 @@
             "days": {
               "format": {
                 "abbreviated": {
-                  "sun": "yen",
-                  "mon": "kwa",
-                  "tue": "pil",
-                  "wed": "tat",
-                  "thu": "ine",
-                  "fri": "tan",
-                  "sat": "sit"
+                  "sun": "Jumapili",
+                  "mon": "Jumatatu",
+                  "tue": "Jumanne",
+                  "wed": "Jumatano",
+                  "thu": "Alhamisi",
+                  "fri": "Ijumaa",
+                  "sat": "Jumamosi"
                 },
                 "narrow": {
                   "sun": "S",
@@ -161,13 +161,13 @@
                   "sat": "Jumamosi"
                 },
                 "wide": {
-                  "sun": "siku ya yenga",
-                  "mon": "siku ya kwanza",
-                  "tue": "siku ya pili",
-                  "wed": "siku ya tatu",
-                  "thu": "siku ya ine",
-                  "fri": "siku ya tanu",
-                  "sat": "siku ya sita"
+                  "sun": "Jumapili",
+                  "mon": "Jumatatu",
+                  "tue": "Jumanne",
+                  "wed": "Jumatano",
+                  "thu": "Alhamisi",
+                  "fri": "Ijumaa",
+                  "sat": "Jumamosi"
                 }
               },
               "stand-alone": {
@@ -181,13 +181,13 @@
                   "sat": "Jumamosi"
                 },
                 "narrow": {
-                  "sun": "y",
-                  "mon": "k",
-                  "tue": "p",
-                  "wed": "t",
-                  "thu": "i",
-                  "fri": "t",
-                  "sat": "s"
+                  "sun": "S",
+                  "mon": "M",
+                  "tue": "T",
+                  "wed": "W",
+                  "thu": "T",
+                  "fri": "F",
+                  "sat": "S"
                 },
                 "short": {
                   "sun": "Jumapili",
@@ -277,9 +277,9 @@
                 },
                 "wide": {
                   "midnight": "saa sita za usiku",
-                  "am": "ya asubuyi",
+                  "am": "Asubuhi",
                   "noon": "saa sita za mchana",
-                  "pm": "ya muchana",
+                  "pm": "Mchana",
                   "morning1": "alfajiri",
                   "morning2": "asubuhi",
                   "afternoon1": "mchana",

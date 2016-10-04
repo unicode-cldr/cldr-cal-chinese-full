@@ -3,8 +3,8 @@
     "fr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12379 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "fr"
       },
@@ -253,7 +253,7 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "midnight": "min.",
+                  "midnight": "minuit",
                   "am": "AM",
                   "noon": "midi",
                   "pm": "PM",
@@ -263,7 +263,7 @@
                   "night1": "nuit"
                 },
                 "narrow": {
-                  "midnight": "min.",
+                  "midnight": "minuit",
                   "am": "AM",
                   "noon": "midi",
                   "pm": "PM",
@@ -285,7 +285,7 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "midnight": "min.",
+                  "midnight": "minuit",
                   "am": "AM",
                   "noon": "midi",
                   "pm": "PM",
@@ -295,7 +295,7 @@
                   "night1": "nuit"
                 },
                 "narrow": {
-                  "midnight": "min.",
+                  "midnight": "minuit",
                   "am": "AM",
                   "noon": "midi",
                   "pm": "PM",

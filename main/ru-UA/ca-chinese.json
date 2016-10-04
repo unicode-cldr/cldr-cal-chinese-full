@@ -3,8 +3,8 @@
     "ru-UA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12799 $",
+          "_cldrVersion": "30"
         },
         "language": "ru",
         "territory": "UA"
@@ -254,30 +254,30 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "midnight": "полночь",
-                  "am": "ДП",
-                  "noon": "полдень",
-                  "pm": "ПП",
+                  "midnight": "полн.",
+                  "am": "AM",
+                  "noon": "полд.",
+                  "pm": "PM",
                   "morning1": "утра",
                   "afternoon1": "дня",
                   "evening1": "вечера",
                   "night1": "ночи"
                 },
                 "narrow": {
-                  "midnight": "полночь",
-                  "am": "ДП",
-                  "noon": "полдень",
-                  "pm": "ПП",
+                  "midnight": "полн.",
+                  "am": "AM",
+                  "noon": "полд.",
+                  "pm": "PM",
                   "morning1": "утра",
                   "afternoon1": "дня",
-                  "evening1": "вечера",
+                  "evening1": "веч.",
                   "night1": "ночи"
                 },
                 "wide": {
                   "midnight": "полночь",
-                  "am": "ДП",
+                  "am": "AM",
                   "noon": "полдень",
-                  "pm": "ПП",
+                  "pm": "PM",
                   "morning1": "утра",
                   "afternoon1": "дня",
                   "evening1": "вечера",
@@ -287,9 +287,9 @@
               "stand-alone": {
                 "abbreviated": {
                   "midnight": "полн.",
-                  "am": "ДП",
+                  "am": "AM",
                   "noon": "полд.",
-                  "pm": "ПП",
+                  "pm": "PM",
                   "morning1": "утро",
                   "afternoon1": "день",
                   "evening1": "веч.",
@@ -297,9 +297,9 @@
                 },
                 "narrow": {
                   "midnight": "полн.",
-                  "am": "ДП",
+                  "am": "AM",
                   "noon": "полд.",
-                  "pm": "ПП",
+                  "pm": "PM",
                   "morning1": "утро",
                   "afternoon1": "день",
                   "evening1": "веч.",
@@ -307,9 +307,9 @@
                 },
                 "wide": {
                   "midnight": "полночь",
-                  "am": "ДП",
+                  "am": "AM",
                   "noon": "полдень",
-                  "pm": "ПП",
+                  "pm": "PM",
                   "morning1": "утро",
                   "afternoon1": "день",
                   "evening1": "вечер",

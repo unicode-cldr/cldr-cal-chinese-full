@@ -3,8 +3,8 @@
     "th": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "th"
       },
@@ -319,10 +319,10 @@
                   "am": "ก่อนเที่ยง",
                   "noon": "เที่ยง",
                   "pm": "หลังเที่ยง",
-                  "morning1": "เช้า",
-                  "afternoon1": "ช่วงเที่ยง",
+                  "morning1": "ในตอนเช้า",
+                  "afternoon1": "ในตอนบ่าย",
                   "afternoon2": "บ่าย",
-                  "evening1": "เย็น",
+                  "evening1": "ในตอนเย็น",
                   "evening2": "ค่ำ",
                   "night1": "กลางคืน"
                 }

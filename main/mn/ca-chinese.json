@@ -3,8 +3,8 @@
     "mn": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12307 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "mn"
       },
@@ -142,13 +142,13 @@
                   "sat": "Бя"
                 },
                 "narrow": {
-                  "sun": "1",
-                  "mon": "2",
-                  "tue": "3",
-                  "wed": "4",
-                  "thu": "5",
-                  "fri": "6",
-                  "sat": "7"
+                  "sun": "Ня",
+                  "mon": "Да",
+                  "tue": "Мя",
+                  "wed": "Лх",
+                  "thu": "Пү",
+                  "fri": "Ба",
+                  "sat": "Бя"
                 },
                 "short": {
                   "sun": "Ня",
@@ -180,13 +180,13 @@
                   "sat": "Бя"
                 },
                 "narrow": {
-                  "sun": "1",
-                  "mon": "2",
-                  "tue": "3",
-                  "wed": "4",
-                  "thu": "5",
-                  "fri": "6",
-                  "sat": "7"
+                  "sun": "Ня",
+                  "mon": "Да",
+                  "tue": "Мя",
+                  "wed": "Лх",
+                  "thu": "Пү",
+                  "fri": "Ба",
+                  "sat": "Бя"
                 },
                 "short": {
                   "sun": "Ня",
@@ -274,9 +274,9 @@
                 },
                 "wide": {
                   "midnight": "шөнө дунд",
-                  "am": "ҮӨ",
+                  "am": "ү.ө",
                   "noon": "үд дунд",
-                  "pm": "ҮХ",
+                  "pm": "ү.х",
                   "morning1": "өглөө",
                   "afternoon1": "өдөр",
                   "evening1": "орой",

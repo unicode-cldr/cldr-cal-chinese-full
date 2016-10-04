@@ -3,8 +3,8 @@
     "mt": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12307 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12876 $",
+          "_cldrVersion": "30"
         },
         "language": "mt"
       },
@@ -142,13 +142,13 @@
                   "sat": "Sib"
                 },
                 "narrow": {
-                  "sun": "Ħ",
+                  "sun": "Ħd",
                   "mon": "T",
-                  "tue": "T",
-                  "wed": "E",
-                  "thu": "Ħ",
-                  "fri": "Ġ",
-                  "sat": "S"
+                  "tue": "Tl",
+                  "wed": "Er",
+                  "thu": "Ħm",
+                  "fri": "Ġm",
+                  "sat": "Sb"
                 },
                 "short": {
                   "sun": "Ħad",
@@ -257,8 +257,8 @@
                   "pm": "PM"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "am",
+                  "pm": "pm"
                 },
                 "wide": {
                   "am": "AM",
@@ -271,8 +271,8 @@
                   "pm": "PM"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "am",
+                  "pm": "pm"
                 },
                 "wide": {
                   "am": "AM",

@@ -3,8 +3,8 @@
     "sr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12293 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "sr"
       },
@@ -151,13 +151,13 @@
                   "sat": "с"
                 },
                 "short": {
-                  "sun": "нед",
-                  "mon": "пон",
-                  "tue": "уто",
-                  "wed": "сре",
-                  "thu": "чет",
-                  "fri": "пет",
-                  "sat": "суб"
+                  "sun": "не",
+                  "mon": "по",
+                  "tue": "ут",
+                  "wed": "ср",
+                  "thu": "че",
+                  "fri": "пе",
+                  "sat": "су"
                 },
                 "wide": {
                   "sun": "недеља",
@@ -257,10 +257,10 @@
                   "am": "пре подне",
                   "noon": "подне",
                   "pm": "по подне",
-                  "morning1": "јутро",
-                  "afternoon1": "по под.",
-                  "evening1": "вече",
-                  "night1": "ноћ"
+                  "morning1": "ујутро",
+                  "afternoon1": "по подне",
+                  "evening1": "увече",
+                  "night1": "ноћу"
                 },
                 "narrow": {
                   "midnight": "у поноћ",
@@ -277,10 +277,10 @@
                   "am": "пре подне",
                   "noon": "подне",
                   "pm": "по подне",
-                  "morning1": "јутро",
-                  "afternoon1": "поподне",
-                  "evening1": "вече",
-                  "night1": "ноћ"
+                  "morning1": "ујутро",
+                  "afternoon1": "по подне",
+                  "evening1": "увече",
+                  "night1": "ноћу"
                 }
               },
               "stand-alone": {
@@ -299,10 +299,10 @@
                   "am": "пре подне",
                   "noon": "подне",
                   "pm": "по подне",
-                  "morning1": "јутро",
-                  "afternoon1": "поподне",
-                  "evening1": "вече",
-                  "night1": "ноћ"
+                  "morning1": "ујутро",
+                  "afternoon1": "по подне",
+                  "evening1": "увече",
+                  "night1": "ноћу"
                 },
                 "wide": {
                   "midnight": "поноћ",
@@ -1069,10 +1069,10 @@
               "short": "r-MM-dd"
             },
             "timeFormats": {
-              "full": "HH.mm.ss zzzz",
-              "long": "HH.mm.ss z",
-              "medium": "HH.mm.ss",
-              "short": "HH.mm"
+              "full": "HH:mm:ss zzzz",
+              "long": "HH:mm:ss z",
+              "medium": "HH:mm:ss",
+              "short": "HH:mm"
             },
             "dateTimeFormats": {
               "full": "{1} {0}",

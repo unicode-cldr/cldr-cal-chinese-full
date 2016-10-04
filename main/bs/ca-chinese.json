@@ -3,8 +3,8 @@
     "bs": {
       "identity": {
         "version": {
-          "_number": "$Revision: 12307 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12879 $",
+          "_cldrVersion": "30"
         },
         "language": "bs"
       },
@@ -257,30 +257,30 @@
                   "am": "prijepodne",
                   "noon": "podne",
                   "pm": "popodne",
-                  "morning1": "jutro",
+                  "morning1": "ujutro",
                   "afternoon1": "poslijepodne",
-                  "evening1": "večer",
-                  "night1": "noć"
+                  "evening1": "navečer",
+                  "night1": "po noći"
                 },
                 "narrow": {
                   "midnight": "ponoć",
                   "am": "prijepodne",
                   "noon": "podne",
                   "pm": "popodne",
-                  "morning1": "jutro",
+                  "morning1": "ujutro",
                   "afternoon1": "poslijepodne",
-                  "evening1": "večer",
-                  "night1": "noć"
+                  "evening1": "navečer",
+                  "night1": "po noći"
                 },
                 "wide": {
                   "midnight": "ponoć",
-                  "am": "prije podne",
+                  "am": "prijepodne",
                   "noon": "podne",
                   "pm": "popodne",
-                  "morning1": "jutro",
+                  "morning1": "ujutro",
                   "afternoon1": "poslijepodne",
-                  "evening1": "večer",
-                  "night1": "noć"
+                  "evening1": "navečer",
+                  "night1": "po noći"
                 }
               },
               "stand-alone": {
@@ -289,30 +289,30 @@
                   "am": "prijepodne",
                   "noon": "podne",
                   "pm": "popodne",
-                  "morning1": "jutro",
+                  "morning1": "ujutro",
                   "afternoon1": "poslijepodne",
-                  "evening1": "večer",
-                  "night1": "noć"
+                  "evening1": "navečer",
+                  "night1": "po noći"
                 },
                 "narrow": {
                   "midnight": "ponoć",
                   "am": "prijepodne",
                   "noon": "podne",
                   "pm": "popodne",
-                  "morning1": "jutro",
+                  "morning1": "ujutro",
                   "afternoon1": "poslijepodne",
-                  "evening1": "večer",
-                  "night1": "noć"
+                  "evening1": "navečer",
+                  "night1": "po noći"
                 },
                 "wide": {
-                  "midnight": "u ponoć",
-                  "am": "prije podne",
+                  "midnight": "ponoć",
+                  "am": "prijepodne",
                   "noon": "podne",
                   "pm": "popodne",
-                  "morning1": "jutro",
+                  "morning1": "ujutro",
                   "afternoon1": "poslijepodne",
-                  "evening1": "veče",
-                  "night1": "noć"
+                  "evening1": "navečer",
+                  "night1": "po noći"
                 }
               }
             },
