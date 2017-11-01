@@ -3,8 +3,8 @@
     "sr": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13273 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "sr"
       },
@@ -263,9 +263,9 @@
                   "night1": "ноћу"
                 },
                 "narrow": {
-                  "midnight": "у поноћ",
+                  "midnight": "поноћ",
                   "am": "a",
-                  "noon": "у подне",
+                  "noon": "подне",
                   "pm": "p",
                   "morning1": "ујутру",
                   "afternoon1": "по подне",
@@ -299,10 +299,10 @@
                   "am": "пре подне",
                   "noon": "подне",
                   "pm": "по подне",
-                  "morning1": "ујутро",
-                  "afternoon1": "по подне",
-                  "evening1": "увече",
-                  "night1": "ноћу"
+                  "morning1": "јутро",
+                  "afternoon1": "поподне",
+                  "evening1": "вече",
+                  "night1": "ноћ"
                 },
                 "wide": {
                   "midnight": "поноћ",
@@ -1080,8 +1080,13 @@
               "medium": "{1} {0}",
               "short": "{1} {0}",
               "availableFormats": {
+                "Bh": "h B",
+                "Bhm": "h:mm B",
+                "Bhms": "h:mm:ss B",
                 "d": "d",
                 "E": "ccc",
+                "EBhm": "E h:mm B",
+                "EBhms": "E h:mm:ss B",
                 "Ed": "d, E",
                 "Gy": "r U",
                 "GyMMM": "r(U) MMM",

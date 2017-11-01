@@ -3,8 +3,8 @@
     "cy": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13186 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13717 $",
+          "_cldrVersion": "32"
         },
         "language": "cy"
       },
@@ -261,8 +261,13 @@
                   "pm": "h"
                 },
                 "wide": {
+                  "midnight": "canol nos",
                   "am": "yb",
-                  "pm": "yh"
+                  "noon": "canol dydd",
+                  "pm": "yh",
+                  "morning1": "y bore",
+                  "afternoon1": "y prynhawn",
+                  "evening1": "yr hwyr"
                 }
               },
               "stand-alone": {
@@ -275,8 +280,13 @@
                   "pm": "yh"
                 },
                 "wide": {
+                  "midnight": "canol nos",
                   "am": "yb",
-                  "pm": "yh"
+                  "noon": "canol dydd",
+                  "pm": "yh",
+                  "morning1": "y bore",
+                  "afternoon1": "y prynhawn",
+                  "evening1": "yr hwyr"
                 }
               }
             },
@@ -1044,8 +1054,13 @@
               "medium": "{1} {0}",
               "short": "{1} {0}",
               "availableFormats": {
+                "Bh": "h B",
+                "Bhm": "h:mm B",
+                "Bhms": "h:mm:ss B",
                 "d": "d",
                 "E": "ccc",
+                "EBhm": "E h:mm B",
+                "EBhms": "E h:mm:ss B",
                 "Ed": "d, E",
                 "Gy": "r U",
                 "GyMMM": "r(U) MMM",

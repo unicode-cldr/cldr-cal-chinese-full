@@ -3,8 +3,8 @@
     "ms": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13705 $",
+          "_cldrVersion": "32"
         },
         "language": "ms"
       },
@@ -273,7 +273,7 @@
                 "wide": {
                   "am": "PG",
                   "pm": "PTG",
-                  "morning1": "pagi",
+                  "morning1": "tengah malam",
                   "morning2": "pagi",
                   "afternoon1": "tengah hari",
                   "evening1": "petang",
@@ -1057,10 +1057,10 @@
               }
             },
             "dateFormats": {
-              "full": "EEEE, U MMMM dd",
-              "long": "U MMMM d",
-              "medium": "U MMM d",
-              "short": "y-M-d"
+              "full": "EEEE, d MMMM r(U)",
+              "long": "d MMMM r(U)",
+              "medium": "d MMM r",
+              "short": "d/M/r"
             },
             "timeFormats": {
               "full": "h:mm:ss a zzzz",
@@ -1074,8 +1074,13 @@
               "medium": "{1} {0}",
               "short": "{1} {0}",
               "availableFormats": {
+                "Bh": "h B",
+                "Bhm": "h:mm B",
+                "Bhms": "h:mm:ss B",
                 "d": "d",
                 "E": "ccc",
+                "EBhm": "E h:mm B",
+                "EBhms": "E h:mm:ss B",
                 "Ed": "d, E",
                 "Gy": "r U",
                 "GyMMM": "r(U) MMM",

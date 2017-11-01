@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "ru",
         "territory": "KZ"
@@ -255,9 +255,9 @@
               "format": {
                 "abbreviated": {
                   "midnight": "полн.",
-                  "am": "ДП",
+                  "am": "AM",
                   "noon": "полд.",
-                  "pm": "ПП",
+                  "pm": "PM",
                   "morning1": "утра",
                   "afternoon1": "дня",
                   "evening1": "вечера",
@@ -265,19 +265,19 @@
                 },
                 "narrow": {
                   "midnight": "полн.",
-                  "am": "ДП",
+                  "am": "AM",
                   "noon": "полд.",
-                  "pm": "ПП",
+                  "pm": "PM",
                   "morning1": "утра",
                   "afternoon1": "дня",
-                  "evening1": "вечера",
+                  "evening1": "веч.",
                   "night1": "ночи"
                 },
                 "wide": {
                   "midnight": "полночь",
-                  "am": "ДП",
+                  "am": "AM",
                   "noon": "полдень",
-                  "pm": "ПП",
+                  "pm": "PM",
                   "morning1": "утра",
                   "afternoon1": "дня",
                   "evening1": "вечера",
@@ -287,9 +287,9 @@
               "stand-alone": {
                 "abbreviated": {
                   "midnight": "полн.",
-                  "am": "ДП",
+                  "am": "AM",
                   "noon": "полд.",
-                  "pm": "ПП",
+                  "pm": "PM",
                   "morning1": "утро",
                   "afternoon1": "день",
                   "evening1": "веч.",
@@ -297,9 +297,9 @@
                 },
                 "narrow": {
                   "midnight": "полн.",
-                  "am": "ДП",
+                  "am": "AM",
                   "noon": "полд.",
-                  "pm": "ПП",
+                  "pm": "PM",
                   "morning1": "утро",
                   "afternoon1": "день",
                   "evening1": "веч.",
@@ -307,9 +307,9 @@
                 },
                 "wide": {
                   "midnight": "полночь",
-                  "am": "ДП",
+                  "am": "AM",
                   "noon": "полдень",
-                  "pm": "ПП",
+                  "pm": "PM",
                   "morning1": "утро",
                   "afternoon1": "день",
                   "evening1": "вечер",
@@ -1081,8 +1081,13 @@
               "medium": "{1} {0}",
               "short": "{1} {0}",
               "availableFormats": {
+                "Bh": "h B",
+                "Bhm": "h:mm B",
+                "Bhms": "h:mm:ss B",
                 "d": "d",
                 "E": "ccc",
+                "EBhm": "E h:mm B",
+                "EBhms": "E h:mm:ss B",
                 "Ed": "E, d",
                 "Gy": "U",
                 "GyMMM": "LLL U",

@@ -3,8 +3,8 @@
     "ar-LY": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13706 $",
+          "_cldrVersion": "32"
         },
         "language": "ar",
         "territory": "LY"
@@ -152,13 +152,13 @@
                   "sat": "س"
                 },
                 "short": {
-                  "sun": "الأحد",
-                  "mon": "الاثنين",
-                  "tue": "الثلاثاء",
-                  "wed": "الأربعاء",
-                  "thu": "الخميس",
-                  "fri": "الجمعة",
-                  "sat": "السبت"
+                  "sun": "أحد",
+                  "mon": "إثنين",
+                  "tue": "ثلاثاء",
+                  "wed": "أربعاء",
+                  "thu": "خميس",
+                  "fri": "جمعة",
+                  "sat": "سبت"
                 },
                 "wide": {
                   "sun": "الأحد",
@@ -190,13 +190,13 @@
                   "sat": "س"
                 },
                 "short": {
-                  "sun": "الأحد",
-                  "mon": "الاثنين",
-                  "tue": "الثلاثاء",
-                  "wed": "الأربعاء",
-                  "thu": "الخميس",
-                  "fri": "الجمعة",
-                  "sat": "السبت"
+                  "sun": "أحد",
+                  "mon": "إثنين",
+                  "tue": "ثلاثاء",
+                  "wed": "أربعاء",
+                  "thu": "خميس",
+                  "fri": "جمعة",
+                  "sat": "سبت"
                 },
                 "wide": {
                   "sun": "الأحد",
@@ -1087,8 +1087,13 @@
               "medium": "{1} {0}",
               "short": "{1} {0}",
               "availableFormats": {
+                "Bh": "h B",
+                "Bhm": "h:mm B",
+                "Bhms": "h:mm:ss B",
                 "d": "d",
                 "E": "ccc",
+                "EBhm": "E h:mm B",
+                "EBhms": "E h:mm:ss B",
                 "Ed": "d, E",
                 "Gy": "r U",
                 "GyMMM": "r(U) MMM",

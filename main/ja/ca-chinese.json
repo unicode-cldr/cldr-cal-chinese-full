@@ -3,8 +3,8 @@
     "ja": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13701 $",
+          "_cldrVersion": "32"
         },
         "language": "ja"
       },
@@ -1095,8 +1095,13 @@
               "medium": "{1} {0}",
               "short": "{1} {0}",
               "availableFormats": {
+                "Bh": "BK時",
+                "Bhm": "BK:mm",
+                "Bhms": "BK:mm:ss",
                 "d": "d日",
                 "E": "ccc",
+                "EBhm": "BK:mm (E)",
+                "EBhms": "BK:mm:ss (E)",
                 "Ed": "d日(E)",
                 "EEEEd": "d日EEEE",
                 "Gy": "U年",
@@ -1120,10 +1125,10 @@
                 "MMMEEEEd": "MMMd日EEEE",
                 "MMMMd": "MMMMd日",
                 "ms": "mm:ss",
-                "UM": "U MM",
-                "UMd": "U MM-d",
-                "UMMM": "U MMM",
-                "UMMMd": "U MMM d",
+                "UM": "U年M月",
+                "UMd": "U年M月d日",
+                "UMMM": "U年MMM",
+                "UMMMd": "U年MMMd日",
                 "y": "U年",
                 "yMd": "U年M月d日",
                 "yyyy": "U年",
