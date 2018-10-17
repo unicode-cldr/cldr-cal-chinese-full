@@ -3,8 +3,8 @@
     "en-AU": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13873 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14418 $",
+          "_cldrVersion": "34"
         },
         "language": "en",
         "territory": "AU"
@@ -134,13 +134,13 @@
             "days": {
               "format": {
                 "abbreviated": {
-                  "sun": "Sun.",
-                  "mon": "Mon.",
-                  "tue": "Tue.",
-                  "wed": "Wed.",
-                  "thu": "Thu.",
-                  "fri": "Fri.",
-                  "sat": "Sat."
+                  "sun": "Sun",
+                  "mon": "Mon",
+                  "tue": "Tue",
+                  "wed": "Wed",
+                  "thu": "Thu",
+                  "fri": "Fri",
+                  "sat": "Sat"
                 },
                 "narrow": {
                   "sun": "Su.",
@@ -152,13 +152,13 @@
                   "sat": "Sa."
                 },
                 "short": {
-                  "sun": "Su.",
-                  "mon": "Mon.",
-                  "tue": "Tu.",
-                  "wed": "Wed.",
-                  "thu": "Th.",
-                  "fri": "Fri.",
-                  "sat": "Sat."
+                  "sun": "Su",
+                  "mon": "Mon",
+                  "tue": "Tu",
+                  "wed": "Wed",
+                  "thu": "Th",
+                  "fri": "Fri",
+                  "sat": "Sat"
                 },
                 "wide": {
                   "sun": "Sunday",
@@ -172,13 +172,13 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "sun": "Sun.",
-                  "mon": "Mon.",
-                  "tue": "Tue.",
-                  "wed": "Wed.",
-                  "thu": "Thu.",
-                  "fri": "Fri.",
-                  "sat": "Sat."
+                  "sun": "Sun",
+                  "mon": "Mon",
+                  "tue": "Tue",
+                  "wed": "Wed",
+                  "thu": "Thu",
+                  "fri": "Fri",
+                  "sat": "Sat"
                 },
                 "narrow": {
                   "sun": "Su.",
@@ -190,13 +190,13 @@
                   "sat": "Sa."
                 },
                 "short": {
-                  "sun": "Su.",
-                  "mon": "Mon.",
-                  "tue": "Tu.",
-                  "wed": "Wed.",
-                  "thu": "Th.",
-                  "fri": "Fri.",
-                  "sat": "Sat."
+                  "sun": "Su",
+                  "mon": "Mon",
+                  "tue": "Tu",
+                  "wed": "Wed",
+                  "thu": "Th",
+                  "fri": "Fri",
+                  "sat": "Sat"
                 },
                 "wide": {
                   "sun": "Sunday",

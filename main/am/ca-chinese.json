@@ -3,8 +3,8 @@
     "am": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "am"
       },
@@ -258,7 +258,7 @@
                   "noon": "ቀትር",
                   "pm": "ከሰዓት",
                   "morning1": "ጥዋት1",
-                  "afternoon1": "ከሰዓት1",
+                  "afternoon1": "ከሰዓት 7",
                   "evening1": "ማታ1",
                   "night1": "ሌሊት1"
                 },
@@ -278,7 +278,7 @@
                   "noon": "ቀትር",
                   "pm": "ከሰዓት",
                   "morning1": "ጥዋት1",
-                  "afternoon1": "ከሰዓት1",
+                  "afternoon1": "ከሰዓት 7 ሰዓት",
                   "evening1": "ማታ1",
                   "night1": "ሌሊት1"
                 }

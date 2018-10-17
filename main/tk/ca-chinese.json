@@ -3,8 +3,8 @@
     "tk": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "tk"
       },
@@ -234,7 +234,7 @@
                   "1": "1Ç",
                   "2": "2Ç",
                   "3": "3Ç",
-                  "4": "Q4"
+                  "4": "4Ç"
                 },
                 "narrow": {
                   "1": "1",

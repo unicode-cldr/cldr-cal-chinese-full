@@ -3,8 +3,8 @@
     "es-US": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13873 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "es",
         "territory": "US"
@@ -224,9 +224,9 @@
                   "4": "4"
                 },
                 "wide": {
-                  "1": "1.º trimestre",
+                  "1": "1.er trimestre",
                   "2": "2.º trimestre",
-                  "3": "3.º trimestre",
+                  "3": "3.er trimestre",
                   "4": "4.º trimestre"
                 }
               },
@@ -244,9 +244,9 @@
                   "4": "4"
                 },
                 "wide": {
-                  "1": "1.º trimestre",
+                  "1": "1.er trimestre",
                   "2": "2.º trimestre",
-                  "3": "3.º trimestre",
+                  "3": "3.er trimestre",
                   "4": "4.º trimestre"
                 }
               }

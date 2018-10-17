@@ -3,8 +3,8 @@
     "kl": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13869 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14512 $",
+          "_cldrVersion": "34"
         },
         "language": "kl"
       },
@@ -133,7 +133,7 @@
             "days": {
               "format": {
                 "abbreviated": {
-                  "sun": "sab",
+                  "sun": "sap",
                   "mon": "ata",
                   "tue": "mar",
                   "wed": "pin",
@@ -151,7 +151,7 @@
                   "sat": "S"
                 },
                 "short": {
-                  "sun": "sab",
+                  "sun": "sap",
                   "mon": "ata",
                   "tue": "mar",
                   "wed": "pin",
@@ -160,7 +160,7 @@
                   "sat": "arf"
                 },
                 "wide": {
-                  "sun": "sabaat",
+                  "sun": "sapaat",
                   "mon": "ataasinngorneq",
                   "tue": "marlunngorneq",
                   "wed": "pingasunngorneq",
@@ -171,7 +171,7 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "sun": "sab",
+                  "sun": "sap",
                   "mon": "ata",
                   "tue": "mar",
                   "wed": "pin",
@@ -189,7 +189,7 @@
                   "sat": "S"
                 },
                 "short": {
-                  "sun": "sab",
+                  "sun": "sap",
                   "mon": "ata",
                   "tue": "mar",
                   "wed": "pin",
@@ -198,7 +198,7 @@
                   "sat": "arf"
                 },
                 "wide": {
-                  "sun": "sabaat",
+                  "sun": "sapaat",
                   "mon": "ataasinngorneq",
                   "tue": "marlunngorneq",
                   "wed": "pingasunngorneq",

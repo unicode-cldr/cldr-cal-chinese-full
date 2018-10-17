@@ -3,8 +3,8 @@
     "en-CA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13873 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14488 $",
+          "_cldrVersion": "34"
         },
         "language": "en",
         "territory": "CA"
@@ -266,16 +266,16 @@
                   "night1": "at night"
                 },
                 "narrow": {
-                  "midnight": "mi",
-                  "am": "a",
+                  "midnight": "mid",
+                  "am": "am",
                   "am-alt-variant": "am",
                   "noon": "n",
-                  "pm": "p",
+                  "pm": "pm",
                   "pm-alt-variant": "pm",
-                  "morning1": "in the morning",
-                  "afternoon1": "in the afternoon",
-                  "evening1": "in the evening",
-                  "night1": "at night"
+                  "morning1": "mor",
+                  "afternoon1": "aft",
+                  "evening1": "eve",
+                  "night1": "night"
                 },
                 "wide": {
                   "midnight": "midnight",
@@ -304,15 +304,15 @@
                   "night1": "night"
                 },
                 "narrow": {
-                  "midnight": "midnight",
+                  "midnight": "mid",
                   "am": "a.m.",
                   "am-alt-variant": "am",
                   "noon": "noon",
-                  "pm": "p.m.",
+                  "pm": "pm",
                   "pm-alt-variant": "pm",
-                  "morning1": "morning",
-                  "afternoon1": "afternoon",
-                  "evening1": "evening",
+                  "morning1": "mor",
+                  "afternoon1": "aft",
+                  "evening1": "eve",
                   "night1": "night"
                 },
                 "wide": {

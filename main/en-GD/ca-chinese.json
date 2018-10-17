@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13869 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "en",
         "territory": "GD"
@@ -255,10 +255,10 @@
               "format": {
                 "abbreviated": {
                   "midnight": "midnight",
-                  "am": "AM",
+                  "am": "am",
                   "am-alt-variant": "am",
                   "noon": "noon",
-                  "pm": "PM",
+                  "pm": "pm",
                   "pm-alt-variant": "pm",
                   "morning1": "in the morning",
                   "afternoon1": "in the afternoon",
@@ -279,10 +279,10 @@
                 },
                 "wide": {
                   "midnight": "midnight",
-                  "am": "AM",
+                  "am": "am",
                   "am-alt-variant": "am",
                   "noon": "noon",
-                  "pm": "PM",
+                  "pm": "pm",
                   "pm-alt-variant": "pm",
                   "morning1": "in the morning",
                   "afternoon1": "in the afternoon",
@@ -293,10 +293,10 @@
               "stand-alone": {
                 "abbreviated": {
                   "midnight": "midnight",
-                  "am": "AM",
+                  "am": "am",
                   "am-alt-variant": "am",
                   "noon": "noon",
-                  "pm": "PM",
+                  "pm": "pm",
                   "pm-alt-variant": "pm",
                   "morning1": "morning",
                   "afternoon1": "afternoon",
@@ -305,10 +305,10 @@
                 },
                 "narrow": {
                   "midnight": "midnight",
-                  "am": "AM",
+                  "am": "am",
                   "am-alt-variant": "am",
                   "noon": "noon",
-                  "pm": "PM",
+                  "pm": "pm",
                   "pm-alt-variant": "pm",
                   "morning1": "morning",
                   "afternoon1": "afternoon",
@@ -317,10 +317,10 @@
                 },
                 "wide": {
                   "midnight": "midnight",
-                  "am": "AM",
+                  "am": "am",
                   "am-alt-variant": "am",
                   "noon": "noon",
-                  "pm": "PM",
+                  "pm": "pm",
                   "pm-alt-variant": "pm",
                   "morning1": "morning",
                   "afternoon1": "afternoon",

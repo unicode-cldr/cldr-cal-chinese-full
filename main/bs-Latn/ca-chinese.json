@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13839 $",
-          "_cldrVersion": "33"
+          "_cldrVersion": "34"
         },
         "language": "bs",
         "script": "Latn"
@@ -255,9 +255,9 @@
               "format": {
                 "abbreviated": {
                   "midnight": "ponoć",
-                  "am": "prijepodne",
+                  "am": "AM",
                   "noon": "podne",
-                  "pm": "popodne",
+                  "pm": "PM",
                   "morning1": "ujutro",
                   "afternoon1": "poslijepodne",
                   "evening1": "navečer",
@@ -287,9 +287,9 @@
               "stand-alone": {
                 "abbreviated": {
                   "midnight": "ponoć",
-                  "am": "prijepodne",
+                  "am": "AM",
                   "noon": "podne",
-                  "pm": "popodne",
+                  "pm": "PM",
                   "morning1": "ujutro",
                   "afternoon1": "poslijepodne",
                   "evening1": "navečer",

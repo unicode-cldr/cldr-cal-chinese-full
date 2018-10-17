@@ -3,8 +3,8 @@
     "eu": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14365 $",
+          "_cldrVersion": "34"
         },
         "language": "eu"
       },
@@ -198,13 +198,13 @@
                   "sat": "lr."
                 },
                 "wide": {
-                  "sun": "Igandea",
-                  "mon": "Astelehena",
-                  "tue": "Asteartea",
-                  "wed": "Asteazkena",
-                  "thu": "Osteguna",
-                  "fri": "Ostirala",
-                  "sat": "Larunbata"
+                  "sun": "igandea",
+                  "mon": "astelehena",
+                  "tue": "asteartea",
+                  "wed": "asteazkena",
+                  "thu": "osteguna",
+                  "fri": "ostirala",
+                  "sat": "larunbata"
                 }
               }
             },

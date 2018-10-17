@@ -3,8 +3,8 @@
     "hy": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13911 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14350 $",
+          "_cldrVersion": "34"
         },
         "language": "hy"
       },
@@ -254,9 +254,9 @@
               "format": {
                 "abbreviated": {
                   "midnight": "կեսգիշեր",
-                  "am": "ԿԱ",
+                  "am": "AM",
                   "noon": "կեսօր",
-                  "pm": "ԿՀ",
+                  "pm": "PM",
                   "morning1": "առավոտյան",
                   "afternoon1": "ցերեկը",
                   "evening1": "երեկոյան",
@@ -274,9 +274,9 @@
                 },
                 "wide": {
                   "midnight": "կեսգիշերին",
-                  "am": "ԿԱ",
+                  "am": "AM",
                   "noon": "կեսօրին",
-                  "pm": "ԿՀ",
+                  "pm": "PM",
                   "morning1": "առավոտյան",
                   "afternoon1": "ցերեկը",
                   "evening1": "երեկոյան",
@@ -286,9 +286,9 @@
               "stand-alone": {
                 "abbreviated": {
                   "midnight": "կեսգիշեր",
-                  "am": "ԿԱ",
+                  "am": "AM",
                   "noon": "կեսօր",
-                  "pm": "ԿՀ",
+                  "pm": "PM",
                   "morning1": "առավոտ",
                   "afternoon1": "ցերեկ",
                   "evening1": "երեկո",
@@ -296,9 +296,9 @@
                 },
                 "narrow": {
                   "midnight": "կեսգիշեր",
-                  "am": "ԿԱ",
+                  "am": "AM",
                   "noon": "կեսօր",
-                  "pm": "ԿՀ",
+                  "pm": "PM",
                   "morning1": "առավոտ",
                   "afternoon1": "ցերեկ",
                   "evening1": "երեկո",
@@ -306,9 +306,9 @@
                 },
                 "wide": {
                   "midnight": "կեսգիշեր",
-                  "am": "ԿԱ",
+                  "am": "AM",
                   "noon": "կեսօր",
-                  "pm": "ԿՀ",
+                  "pm": "PM",
                   "morning1": "առավոտ",
                   "afternoon1": "ցերեկ",
                   "evening1": "երեկո",

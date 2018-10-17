@@ -3,8 +3,8 @@
     "cs": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13915 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14491 $",
+          "_cldrVersion": "34"
         },
         "language": "cs"
       },
@@ -1024,46 +1024,46 @@
               "zodiacs": {
                 "format": {
                   "abbreviated": {
-                    "1": "zi",
-                    "2": "chou",
-                    "3": "yin",
-                    "4": "mao",
-                    "5": "chen",
-                    "6": "si",
-                    "7": "wu",
-                    "8": "wei",
-                    "9": "shen",
-                    "10": "you",
-                    "11": "xu",
-                    "12": "hai"
+                    "1": "krysa",
+                    "2": "buvol",
+                    "3": "tygr",
+                    "4": "zajíc",
+                    "5": "drak",
+                    "6": "had",
+                    "7": "kůň",
+                    "8": "koza",
+                    "9": "opice",
+                    "10": "kohout",
+                    "11": "pes",
+                    "12": "vepř"
                   },
                   "narrow": {
-                    "1": "zi",
-                    "2": "chou",
-                    "3": "yin",
-                    "4": "mao",
-                    "5": "chen",
-                    "6": "si",
-                    "7": "wu",
-                    "8": "wei",
-                    "9": "shen",
-                    "10": "you",
-                    "11": "xu",
-                    "12": "hai"
+                    "1": "krysa",
+                    "2": "buvol",
+                    "3": "tygr",
+                    "4": "zajíc",
+                    "5": "drak",
+                    "6": "had",
+                    "7": "kůň",
+                    "8": "koza",
+                    "9": "opice",
+                    "10": "kohout",
+                    "11": "pes",
+                    "12": "vepř"
                   },
                   "wide": {
-                    "1": "zi",
-                    "2": "chou",
-                    "3": "yin",
-                    "4": "mao",
-                    "5": "chen",
-                    "6": "si",
-                    "7": "wu",
-                    "8": "wei",
-                    "9": "shen",
-                    "10": "you",
-                    "11": "xu",
-                    "12": "hai"
+                    "1": "krysa",
+                    "2": "buvol",
+                    "3": "tygr",
+                    "4": "zajíc",
+                    "5": "drak",
+                    "6": "had",
+                    "7": "kůň",
+                    "8": "koza",
+                    "9": "opice",
+                    "10": "kohout",
+                    "11": "pes",
+                    "12": "vepř"
                   }
                 }
               }

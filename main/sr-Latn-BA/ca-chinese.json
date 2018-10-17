@@ -3,8 +3,8 @@
     "sr-Latn-BA": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13869 $",
-          "_cldrVersion": "33"
+          "_number": "$Revision: 14488 $",
+          "_cldrVersion": "34"
         },
         "language": "sr",
         "script": "Latn",
@@ -135,13 +135,13 @@
             "days": {
               "format": {
                 "abbreviated": {
-                  "sun": "ned.",
-                  "mon": "pon.",
-                  "tue": "ut.",
-                  "wed": "sr.",
-                  "thu": "čet.",
-                  "fri": "pet.",
-                  "sat": "sub."
+                  "sun": "ned",
+                  "mon": "pon",
+                  "tue": "ut",
+                  "wed": "sr",
+                  "thu": "čet",
+                  "fri": "pet",
+                  "sat": "sub"
                 },
                 "narrow": {
                   "sun": "n",
@@ -173,13 +173,13 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "sun": "ned.",
-                  "mon": "pon.",
-                  "tue": "ut.",
-                  "wed": "sr.",
-                  "thu": "čet.",
-                  "fri": "pet.",
-                  "sat": "sub."
+                  "sun": "ned",
+                  "mon": "pon",
+                  "tue": "ut",
+                  "wed": "sr",
+                  "thu": "čet",
+                  "fri": "pet",
+                  "sat": "sub"
                 },
                 "narrow": {
                   "sun": "n",
