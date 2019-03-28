@@ -3,8 +3,8 @@
     "fa-AF": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14365 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14786 $",
+          "_cldrVersion": "35"
         },
         "language": "fa",
         "territory": "AF"
@@ -254,66 +254,66 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "midnight": "نیمه‌شب",
                   "am": "ق.ظ.",
-                  "noon": "ظهر",
                   "pm": "ب.ظ.",
-                  "morning1": "صبح",
-                  "afternoon1": "بعد از چاشت",
-                  "evening1": "شام",
-                  "night1": "شب"
+                  "morning1": "بامداد",
+                  "morning2": "صبح",
+                  "afternoon1": "ظهر",
+                  "afternoon2": "بعدازچاشت",
+                  "night1": "شب",
+                  "night2": "نیمه‌شب"
                 },
                 "narrow": {
-                  "midnight": "ن",
                   "am": "ق",
-                  "noon": "ظ",
                   "pm": "ب",
-                  "morning1": "ص",
-                  "afternoon1": "ب.ظ.",
-                  "evening1": "ش",
-                  "night1": "ش"
+                  "morning1": "ب",
+                  "morning2": "ص",
+                  "afternoon1": "ظ",
+                  "afternoon2": "ع",
+                  "night1": "ش",
+                  "night2": "ن"
                 },
                 "wide": {
-                  "midnight": "نیمه‌شب",
                   "am": "قبل‌ازظهر",
-                  "noon": "ظهر",
                   "pm": "بعدازظهر",
-                  "morning1": "صبح",
-                  "afternoon1": "بعد از چاشت",
-                  "evening1": "شام",
-                  "night1": "شب"
+                  "morning1": "بامداد",
+                  "morning2": "صبح",
+                  "afternoon1": "ظهر",
+                  "afternoon2": "بعدازچاشت",
+                  "night1": "شب",
+                  "night2": "نیمه‌شب"
                 }
               },
               "stand-alone": {
                 "abbreviated": {
-                  "midnight": "نیمه‌شب",
                   "am": "ق.ظ.",
-                  "noon": "ظهر",
                   "pm": "ب.ظ.",
-                  "morning1": "صبح",
-                  "afternoon1": "بعد از چاشت",
-                  "evening1": "شام",
-                  "night1": "شب"
+                  "morning1": "بامداد",
+                  "morning2": "صبح",
+                  "afternoon1": "ظهر",
+                  "afternoon2": "بعدازچاشت",
+                  "night1": "شب",
+                  "night2": "نیمه‌شب"
                 },
                 "narrow": {
-                  "midnight": "ن",
-                  "am": "ق.ظ.",
-                  "noon": "ظ",
-                  "pm": "ب.ظ.",
-                  "morning1": "ص",
+                  "am": "ق",
+                  "pm": "ب",
+                  "morning1": "ب",
+                  "morning2": "ص",
                   "afternoon1": "بعد از چاشت",
-                  "evening1": "شام",
-                  "night1": "ش"
+                  "afternoon2": "ع",
+                  "night1": "ش",
+                  "night2": "ن"
                 },
                 "wide": {
-                  "midnight": "نیمه‌شب",
                   "am": "قبل‌ازظهر",
-                  "noon": "ظهر",
                   "pm": "بعدازظهر",
-                  "morning1": "صبح",
-                  "afternoon1": "بعد از چاشت",
-                  "evening1": "شام",
-                  "night1": "شب"
+                  "morning1": "بامداد",
+                  "morning2": "صبح",
+                  "afternoon1": "ظهر",
+                  "afternoon2": "بعدازچاشت",
+                  "night1": "شب",
+                  "night2": "نیمه‌شب"
                 }
               }
             },
@@ -1139,6 +1139,15 @@
               },
               "intervalFormats": {
                 "intervalFormatFallback": "{0} – {1}",
+                "Bh": {
+                  "B": "h B – h B",
+                  "h": "h–h B"
+                },
+                "Bhm": {
+                  "B": "h:mm B – h:mm B",
+                  "h": "h:mm–h:mm B",
+                  "m": "h:mm–h:mm B"
+                },
                 "d": {
                   "d": "d–d"
                 },

@@ -3,8 +3,8 @@
     "hi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14350 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "hi"
       },
@@ -254,28 +254,28 @@
               "format": {
                 "abbreviated": {
                   "midnight": "मध्यरात्रि",
-                  "am": "पूर्वाह्न",
-                  "pm": "अपराह्न",
+                  "am": "am",
+                  "pm": "pm",
                   "morning1": "सुबह",
-                  "afternoon1": "अपराह्न",
+                  "afternoon1": "दोपहर",
                   "evening1": "शाम",
                   "night1": "रात"
                 },
                 "narrow": {
                   "midnight": "मध्यरात्रि",
-                  "am": "पू",
-                  "pm": "अ",
+                  "am": "am",
+                  "pm": "pm",
                   "morning1": "सुबह",
-                  "afternoon1": "अपराह्न",
+                  "afternoon1": "दोपहर",
                   "evening1": "शाम",
                   "night1": "रात"
                 },
                 "wide": {
                   "midnight": "मध्यरात्रि",
-                  "am": "पूर्वाह्न",
-                  "pm": "अपराह्न",
+                  "am": "am",
+                  "pm": "pm",
                   "morning1": "सुबह",
-                  "afternoon1": "अपराह्न",
+                  "afternoon1": "दोपहर",
                   "evening1": "शाम",
                   "night1": "रात"
                 }
@@ -283,8 +283,8 @@
               "stand-alone": {
                 "abbreviated": {
                   "midnight": "मध्यरात्रि",
-                  "am": "पूर्वाह्न",
-                  "pm": "अपराह्न",
+                  "am": "am",
+                  "pm": "pm",
                   "morning1": "सुबह",
                   "afternoon1": "दोपहर",
                   "evening1": "शाम",
@@ -292,17 +292,17 @@
                 },
                 "narrow": {
                   "midnight": "आधी रात",
-                  "am": "पू",
-                  "pm": "अ",
+                  "am": "am",
+                  "pm": "pm",
                   "morning1": "सुबह",
-                  "afternoon1": "अपराह्न",
+                  "afternoon1": "दोपहर",
                   "evening1": "शाम",
                   "night1": "रात"
                 },
                 "wide": {
                   "midnight": "मध्यरात्रि",
-                  "am": "पूर्वाह्न",
-                  "pm": "अपराह्न",
+                  "am": "am",
+                  "pm": "pm",
                   "morning1": "सुबह",
                   "afternoon1": "दोपहर",
                   "evening1": "शाम",
@@ -1132,6 +1132,15 @@
               },
               "intervalFormats": {
                 "intervalFormatFallback": "{0} – {1}",
+                "Bh": {
+                  "B": "h B – h B",
+                  "h": "h–h B"
+                },
+                "Bhm": {
+                  "B": "h:mm B – h:mm B",
+                  "h": "h:mm–h:mm B",
+                  "m": "h:mm–h:mm B"
+                },
                 "d": {
                   "d": "d–d"
                 },

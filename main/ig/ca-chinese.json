@@ -3,8 +3,8 @@
     "ig": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14488 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14845 $",
+          "_cldrVersion": "35"
         },
         "language": "ig"
       },
@@ -139,7 +139,7 @@
                   "wed": "Wen",
                   "thu": "Tọọ",
                   "fri": "Fraị",
-                  "sat": "Sat"
+                  "sat": "Satọdee"
                 },
                 "narrow": {
                   "sun": "S",
@@ -160,7 +160,7 @@
                   "sat": "Sat"
                 },
                 "wide": {
-                  "sun": "Mbọsị Ụka",
+                  "sun": "Ụbọchị Ụka",
                   "mon": "Mọnde",
                   "tue": "Tiuzdee",
                   "wed": "Wenezdee",
@@ -177,7 +177,7 @@
                   "wed": "Wen",
                   "thu": "Tọọ",
                   "fri": "Fraị",
-                  "sat": "Sat"
+                  "sat": "Satọdee"
                 },
                 "narrow": {
                   "sun": "S",
@@ -198,7 +198,7 @@
                   "sat": "Sat"
                 },
                 "wide": {
-                  "sun": "Mbọsị Ụka",
+                  "sun": "Ụbọchị Ụka",
                   "mon": "Mọnde",
                   "tue": "Tiuzdee",
                   "wed": "Wenezdee",
@@ -261,8 +261,8 @@
                   "pm": "P.M."
                 },
                 "wide": {
-                  "am": "A.M.",
-                  "pm": "P.M."
+                  "am": "N’ụtụtụ",
+                  "pm": "N’abali"
                 }
               },
               "stand-alone": {
@@ -1102,6 +1102,15 @@
               },
               "intervalFormats": {
                 "intervalFormatFallback": "{0} – {1}",
+                "Bh": {
+                  "B": "h B – h B",
+                  "h": "h–h B"
+                },
+                "Bhm": {
+                  "B": "h:mm B – h:mm B",
+                  "h": "h:mm–h:mm B",
+                  "m": "h:mm–h:mm B"
+                },
                 "d": {
                   "d": "d–d"
                 },

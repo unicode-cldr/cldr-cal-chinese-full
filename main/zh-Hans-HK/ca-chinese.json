@@ -3,8 +3,8 @@
     "zh-Hans-HK": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13839 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14771 $",
+          "_cldrVersion": "35"
         },
         "language": "zh",
         "script": "Hans",
@@ -1155,6 +1155,15 @@
               },
               "intervalFormats": {
                 "intervalFormatFallback": "{0}–{1}",
+                "Bh": {
+                  "B": "Bh至Bh时",
+                  "h": "Bh至h时"
+                },
+                "Bhm": {
+                  "B": "Bh:mm至Bh:mm",
+                  "h": "Bh:mm至h:mm",
+                  "m": "Bh:mm至h:mm"
+                },
                 "d": {
                   "d": "d日至d日"
                 },

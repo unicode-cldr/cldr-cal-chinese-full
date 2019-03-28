@@ -3,8 +3,8 @@
     "ca": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14365 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14842 $",
+          "_cldrVersion": "35"
         },
         "language": "ca"
       },
@@ -254,8 +254,8 @@
               "format": {
                 "abbreviated": {
                   "midnight": "mitjanit",
-                  "am": "a. m.",
-                  "pm": "p. m.",
+                  "am": "a. m.",
+                  "pm": "p. m.",
                   "morning1": "matinada",
                   "morning2": "matí",
                   "afternoon1": "migdia",
@@ -265,8 +265,8 @@
                 },
                 "narrow": {
                   "midnight": "mitjanit",
-                  "am": "a. m.",
-                  "pm": "p. m.",
+                  "am": "a. m.",
+                  "pm": "p. m.",
                   "morning1": "mat.",
                   "morning2": "matí",
                   "afternoon1": "md",
@@ -276,8 +276,8 @@
                 },
                 "wide": {
                   "midnight": "mitjanit",
-                  "am": "a. m.",
-                  "pm": "p. m.",
+                  "am": "a. m.",
+                  "pm": "p. m.",
                   "morning1": "matinada",
                   "morning2": "matí",
                   "afternoon1": "migdia",
@@ -289,8 +289,8 @@
               "stand-alone": {
                 "abbreviated": {
                   "midnight": "mitjanit",
-                  "am": "a. m.",
-                  "pm": "p. m.",
+                  "am": "a. m.",
+                  "pm": "p. m.",
                   "morning1": "matinada",
                   "morning2": "matí",
                   "afternoon1": "migdia",
@@ -300,8 +300,8 @@
                 },
                 "narrow": {
                   "midnight": "mitjanit",
-                  "am": "a. m.",
-                  "pm": "p. m.",
+                  "am": "a. m.",
+                  "pm": "p. m.",
                   "morning1": "matinada",
                   "morning2": "matí",
                   "afternoon1": "migdia",
@@ -311,8 +311,8 @@
                 },
                 "wide": {
                   "midnight": "mitjanit",
-                  "am": "a. m.",
-                  "pm": "p. m.",
+                  "am": "a. m.",
+                  "pm": "p. m.",
                   "morning1": "matinada",
                   "morning2": "matí",
                   "afternoon1": "migdia",
@@ -1144,6 +1144,15 @@
               },
               "intervalFormats": {
                 "intervalFormatFallback": "{0} – {1}",
+                "Bh": {
+                  "B": "h B – h B",
+                  "h": "h–h B"
+                },
+                "Bhm": {
+                  "B": "h:mm B – h:mm B",
+                  "h": "h:mm–h:mm B",
+                  "m": "h:mm–h:mm B"
+                },
                 "d": {
                   "d": "d–d"
                 },

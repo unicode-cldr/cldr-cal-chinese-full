@@ -3,8 +3,8 @@
     "so": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14394 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14817 $",
+          "_cldrVersion": "35"
         },
         "language": "so"
       },
@@ -135,16 +135,16 @@
                 "abbreviated": {
                   "sun": "Axd",
                   "mon": "Isn",
-                  "tue": "Tal",
-                  "wed": "Arb",
-                  "thu": "Kha",
-                  "fri": "Jim",
-                  "sat": "Sab"
+                  "tue": "Slsa",
+                  "wed": "Arbc",
+                  "thu": "Khms",
+                  "fri": "Jmc",
+                  "sat": "Sbti"
                 },
                 "narrow": {
                   "sun": "A",
                   "mon": "I",
-                  "tue": "T",
+                  "tue": "S",
                   "wed": "A",
                   "thu": "Kh",
                   "fri": "J",
@@ -153,19 +153,19 @@
                 "short": {
                   "sun": "Axd",
                   "mon": "Isn",
-                  "tue": "Tal",
-                  "wed": "Arb",
-                  "thu": "Kha",
-                  "fri": "Jim",
-                  "sat": "Sab"
+                  "tue": "Slsa",
+                  "wed": "Arbc",
+                  "thu": "Khms",
+                  "fri": "Jmc",
+                  "sat": "Sbti"
                 },
                 "wide": {
                   "sun": "Axad",
                   "mon": "Isniin",
-                  "tue": "Talaado",
-                  "wed": "Arbaco",
+                  "tue": "Salaasa",
+                  "wed": "Arbaca",
                   "thu": "Khamiis",
-                  "fri": "Jimco",
+                  "fri": "Jimce",
                   "sat": "Sabti"
                 }
               },
@@ -173,16 +173,16 @@
                 "abbreviated": {
                   "sun": "Axd",
                   "mon": "Isn",
-                  "tue": "Tal",
-                  "wed": "Arb",
-                  "thu": "Kha",
-                  "fri": "Jim",
-                  "sat": "Sab"
+                  "tue": "Slsa",
+                  "wed": "Arbc",
+                  "thu": "Khms",
+                  "fri": "Jmc",
+                  "sat": "Sbti"
                 },
                 "narrow": {
                   "sun": "A",
                   "mon": "I",
-                  "tue": "T",
+                  "tue": "S",
                   "wed": "A",
                   "thu": "Kh",
                   "fri": "J",
@@ -191,19 +191,19 @@
                 "short": {
                   "sun": "Axd",
                   "mon": "Isn",
-                  "tue": "Tal",
-                  "wed": "Arb",
-                  "thu": "Kha",
-                  "fri": "Jim",
-                  "sat": "Sab"
+                  "tue": "Slsa",
+                  "wed": "Arbc",
+                  "thu": "Khms",
+                  "fri": "Jmc",
+                  "sat": "Sbti"
                 },
                 "wide": {
                   "sun": "Axad",
                   "mon": "Isniin",
-                  "tue": "Talaado",
-                  "wed": "Arbaco",
+                  "tue": "Salaasa",
+                  "wed": "Arbaca",
                   "thu": "Khamiis",
-                  "fri": "Jimco",
+                  "fri": "Jimce",
                   "sat": "Sabti"
                 }
               }
@@ -253,30 +253,30 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "am": "sn.",
-                  "pm": "gn."
+                  "am": "GH",
+                  "pm": "GD"
                 },
                 "narrow": {
-                  "am": "sn.",
-                  "pm": "gn."
+                  "am": "h",
+                  "pm": "d"
                 },
                 "wide": {
-                  "am": "sn.",
-                  "pm": "gn."
+                  "am": "GH",
+                  "pm": "GD"
                 }
               },
               "stand-alone": {
                 "abbreviated": {
-                  "am": "sn.",
-                  "pm": "gn."
+                  "am": "GH",
+                  "pm": "GD"
                 },
                 "narrow": {
-                  "am": "sn.",
-                  "pm": "gn."
+                  "am": "GH",
+                  "pm": "GD"
                 },
                 "wide": {
-                  "am": "sn.",
-                  "pm": "gn."
+                  "am": "GH",
+                  "pm": "GD"
                 }
               }
             },
@@ -1102,6 +1102,15 @@
               },
               "intervalFormats": {
                 "intervalFormatFallback": "{0} – {1}",
+                "Bh": {
+                  "B": "h B – h B",
+                  "h": "h–h B"
+                },
+                "Bhm": {
+                  "B": "h:mm B – h:mm B",
+                  "h": "h:mm–h:mm B",
+                  "m": "h:mm–h:mm B"
+                },
                 "d": {
                   "d": "d–d"
                 },
