@@ -3,8 +3,7 @@
     "ceb": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ceb"
       },
@@ -154,10 +153,10 @@
                   "sun": "Dom",
                   "mon": "Lun",
                   "tue": "Mar",
-                  "wed": "Mks",
-                  "thu": "Hu",
-                  "fri": "Bi",
-                  "sat": "Sa"
+                  "wed": "Miy",
+                  "thu": "Huw",
+                  "fri": "Biy",
+                  "sat": "Sab"
                 },
                 "wide": {
                   "sun": "Domingo",
@@ -192,10 +191,10 @@
                   "sun": "Dom",
                   "mon": "Lun",
                   "tue": "Mar",
-                  "wed": "Mks",
-                  "thu": "Hu",
-                  "fri": "Bi",
-                  "sat": "Sa"
+                  "wed": "Miy",
+                  "thu": "Huw",
+                  "fri": "Biy",
+                  "sat": "Sab"
                 },
                 "wide": {
                   "sun": "Domingo",
@@ -223,10 +222,10 @@
                   "4": "4"
                 },
                 "wide": {
-                  "1": "Una sa matag-tulo ka bulan",
-                  "2": "Ikaduha sa matag-tulo ka bulan",
-                  "3": "Ikatulo sa matag-tulo ka bulan",
-                  "4": "Ikaupat sa matag-tulo ka bulan"
+                  "1": "unang quarter",
+                  "2": "ika-2 nga quarter",
+                  "3": "ika-3 nga quarter",
+                  "4": "ika-4 nga quarter"
                 }
               },
               "stand-alone": {
@@ -243,10 +242,10 @@
                   "4": "4"
                 },
                 "wide": {
-                  "1": "Una sa matag-tulo ka bulan",
-                  "2": "Ikaduha sa matag-tulo ka bulan",
-                  "3": "Ikatulo sa matag-tulo ka bulan",
-                  "4": "Ikaupat sa matag-tulo ka bulan"
+                  "1": "unang quarter",
+                  "2": "ika-2 nga quarter",
+                  "3": "ika-3 nga quarter",
+                  "4": "ika-4 nga quarter"
                 }
               }
             },
@@ -257,8 +256,8 @@
                   "pm": "PM"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "a",
+                  "pm": "p"
                 },
                 "wide": {
                   "am": "AM",

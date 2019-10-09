@@ -3,8 +3,7 @@
     "jv": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14844 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "jv"
       },
@@ -133,7 +132,7 @@
             "days": {
               "format": {
                 "abbreviated": {
-                  "sun": "Ahd",
+                  "sun": "Ahad",
                   "mon": "Sen",
                   "tue": "Sel",
                   "wed": "Rab",
@@ -151,7 +150,7 @@
                   "sat": "S"
                 },
                 "short": {
-                  "sun": "Ahd",
+                  "sun": "Ahad",
                   "mon": "Sen",
                   "tue": "Sel",
                   "wed": "Rab",
@@ -171,7 +170,7 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "sun": "Ahd",
+                  "sun": "Ahad",
                   "mon": "Sen",
                   "tue": "Sel",
                   "wed": "Rab",
@@ -189,7 +188,7 @@
                   "sat": "S"
                 },
                 "short": {
-                  "sun": "Ahd",
+                  "sun": "Ahad",
                   "mon": "Sen",
                   "tue": "Sel",
                   "wed": "Rab",

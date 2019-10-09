@@ -3,8 +3,7 @@
     "sw": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14817 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "sw"
       },
@@ -255,7 +254,7 @@
                 "abbreviated": {
                   "midnight": "saa sita za usiku",
                   "am": "AM",
-                  "noon": "saa sita za mchana",
+                  "noon": "adhuhuri",
                   "pm": "PM",
                   "morning1": "alfajiri",
                   "morning2": "asubuhi",
@@ -290,7 +289,7 @@
                 "abbreviated": {
                   "midnight": "saa sita za usiku",
                   "am": "AM",
-                  "noon": "saa sita za mchana",
+                  "noon": "adhuhuri",
                   "pm": "PM",
                   "morning1": "alfajiri",
                   "morning2": "asubuhi",
