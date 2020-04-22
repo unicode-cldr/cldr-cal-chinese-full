@@ -3,7 +3,7 @@
     "ceb": {
       "identity": {
         "version": {
-          "_cldrVersion": "36"
+          "_cldrVersion": "37"
         },
         "language": "ceb"
       },
@@ -135,10 +135,10 @@
                   "sun": "Dom",
                   "mon": "Lun",
                   "tue": "Mar",
-                  "wed": "Mks",
-                  "thu": "Hu",
-                  "fri": "Bi",
-                  "sat": "Sa"
+                  "wed": "Miy",
+                  "thu": "Huw",
+                  "fri": "Biy",
+                  "sat": "Sab"
                 },
                 "narrow": {
                   "sun": "D",
@@ -173,10 +173,10 @@
                   "sun": "Dom",
                   "mon": "Lun",
                   "tue": "Mar",
-                  "wed": "Mks",
-                  "thu": "Hu",
-                  "fri": "Bi",
-                  "sat": "Sa"
+                  "wed": "Miy",
+                  "thu": "Huw",
+                  "fri": "Biy",
+                  "sat": "Sab"
                 },
                 "narrow": {
                   "sun": "D",
