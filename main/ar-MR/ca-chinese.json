@@ -3,7 +3,7 @@
     "ar-MR": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ar",
         "territory": "MR"
@@ -260,7 +260,7 @@
                   "afternoon1": "ظهرًا",
                   "afternoon2": "بعد الظهر",
                   "evening1": "مساءً",
-                  "night1": "منتصف الليل",
+                  "night1": "في المساء",
                   "night2": "ليلاً"
                 },
                 "narrow": {
@@ -277,12 +277,12 @@
                 "wide": {
                   "am": "ص",
                   "pm": "م",
-                  "morning1": "فجرًا",
+                  "morning1": "في الصباح",
                   "morning2": "صباحًا",
                   "afternoon1": "ظهرًا",
                   "afternoon2": "بعد الظهر",
                   "evening1": "مساءً",
-                  "night1": "منتصف الليل",
+                  "night1": "في المساء",
                   "night2": "ليلاً"
                 }
               },

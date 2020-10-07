@@ -3,7 +3,7 @@
     "zh": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "zh"
       },
@@ -1181,20 +1181,20 @@
                   "m": "HH:mm至HH:mm"
                 },
                 "hmv": {
-                  "a": "vah:mm至ah:mm",
-                  "h": "vah:mm至h:mm",
-                  "m": "vah:mm至h:mm"
+                  "a": "v ah:mm至ah:mm",
+                  "h": "v ah:mm至h:mm",
+                  "m": "v ah:mm至h:mm"
                 },
                 "Hmv": {
-                  "H": "HH:mm至HH:mm v",
-                  "m": "HH:mm至HH:mm v"
+                  "H": "v HH:mm至HH:mm",
+                  "m": "v HH:mm至HH:mm"
                 },
                 "hv": {
-                  "a": "vah至ah时",
-                  "h": "vah至h时"
+                  "a": "v ah至ah时",
+                  "h": "v ah至h时"
                 },
                 "Hv": {
-                  "H": "HH–HH v"
+                  "H": "v HH–HH"
                 },
                 "M": {
                   "M": "L至L"

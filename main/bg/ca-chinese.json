@@ -3,7 +3,7 @@
     "bg": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "bg"
       },
@@ -1068,10 +1068,10 @@
               "short": "r-MM-dd"
             },
             "timeFormats": {
-              "full": "H:mm:ss zzzz",
-              "long": "H:mm:ss z",
-              "medium": "H:mm:ss",
-              "short": "H:mm"
+              "full": "H:mm:ss 'ч'. zzzz",
+              "long": "H:mm:ss 'ч'. z",
+              "medium": "H:mm:ss 'ч'.",
+              "short": "H:mm 'ч'."
             },
             "dateTimeFormats": {
               "full": "{1} {0}",

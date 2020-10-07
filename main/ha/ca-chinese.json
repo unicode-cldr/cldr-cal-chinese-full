@@ -3,7 +3,7 @@
     "ha": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
         "language": "ha"
       },
@@ -252,12 +252,12 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "SF",
+                  "pm": "YM"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "SF",
+                  "pm": "YM"
                 },
                 "wide": {
                   "am": "Safiya",
@@ -266,16 +266,16 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "SF",
+                  "pm": "YM"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "SF",
+                  "pm": "YM"
                 },
                 "wide": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "SF",
+                  "pm": "YM"
                 }
               }
             },
